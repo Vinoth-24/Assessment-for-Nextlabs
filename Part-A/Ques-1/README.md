@@ -1,0 +1,2 @@
+- Since I was confused with the output format. I had made 2 different ways to get into the solution. I hope one of them is right.
+- Due to bad format, I will add my notebook file too for displaying output.
