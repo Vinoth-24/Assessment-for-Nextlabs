@@ -1,0 +1,12 @@
+ANS :
+For a set of pairs to be a subspace of vector space V, the following conditions needs to be satisfied.
+- Zero vector must be in the subset
+- It must be closed under addition
+- It must be closed under scalar multiplication
+
+From analysing the subset pairs given with constraints for Vector space, the following are my conclusions:
+
+1. Not a subspace bcoz of no zero vector in subset.
+2. Not a subspace bcoz scalar multiplication condition is not satisfied.
+3. It is a subspace
+4. It is not a subspace bcoz scalar multiplication condition is not satisfied.
